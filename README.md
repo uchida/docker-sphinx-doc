@@ -24,4 +24,4 @@ About Sphinx, consult [Sphinx documentation](http://www.sphinx-doc.org/en/stable
 Contents on this repository are dedicated to [![CC0 public domain](http://i.creativecommons.org/p/zero/1.0/80x15.png "CC0 public domain")](https://creativecommons.org/publicdomain/zero/1.0/).
 No rights reserved.
 
-License for distributed Docker images follows one of [Debianu Project](https://www.debian.org/legal/licenses/), [Graphviz](http://www.graphviz.org/License.php), [dvipng](https://www.ctan.org/pkg/dvipng), [TeXLive](https://www.tug.org/texlive/copying.html), [Sphinx](https://github.com/sphinx-doc/sphinx/blob/master/LICENSE) and its dependencies.
+License for distributed Docker images follows one of [Debian Project](https://www.debian.org/legal/licenses/), [Graphviz](http://www.graphviz.org/License.php), [dvipng](https://www.ctan.org/pkg/dvipng), [TeXLive](https://www.tug.org/texlive/copying.html), [Sphinx](https://github.com/sphinx-doc/sphinx/blob/master/LICENSE) and its dependencies.
